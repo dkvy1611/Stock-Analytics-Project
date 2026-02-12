@@ -96,7 +96,7 @@ vnstock API → Airflow → Database → Data Cleaning → Modeling → Evaluati
 | infra | `docker-compose.yml` | Initialize Airflow and database locally |
 | Model | `ARIMA-LSTM.ipynb` | Train and compare ARIMA, LSTM, and Ensemble models |
 
-```
+
 ### ▶️ Quy trình chạy dự án
 
 | Bước | Thực hiện | Mô tả |
